@@ -50,19 +50,31 @@
     "extra": "Anmeldung via WhatsApp direkt bei Robert."
   },
   {
+    "title": "Weyher Würfel",
+    "start": "2024-04-17T16:00:00.000Z",
+    "end": "2024-04-17T20:00:00.000Z",
+    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
+    "locationUrl": "https://www.openstreetmap.org/way/315395128",
+    "url": null,
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": "Anmeldung via WhatsApp direkt bei Robert."
+  },
+  {
     "title": "Uni Bremen / MZH",
     "start": "2024-04-13T11:00:00.000Z",
     "end": "2024-04-13T20:00:00.000Z",
     "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "https://events.botc-bremen.de/mzh240413/",
+    "url": null,
     "storyTellers": [
       "Alex",
       "Dennis",
       "Kathi",
       "Robert"
     ],
-    "extra": null
+    "extra": "Anmeldungen vorerst noch direkt bei den Storytellern."
   },
   {
     "title": "vhs im Bamberger",
