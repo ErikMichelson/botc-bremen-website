@@ -225,6 +225,19 @@
     "extra": "Veranstaltung im Rahmen der Orientierungswoche für neue Studierende aus Mathematik, Informatik und verwandten Studiengängen."
   },
   {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-10-26T11:00:00.000Z",
+    "end": "2024-10-26T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh241026/",
+    "storyTellers": [
+      "Alex",
+      "Daniel & Kathi"
+    ],
+    "extra": null
+  },
+  {
     "title": "Uni Bremen / ITB",
     "start": "2024-09-11T16:00:00.000Z",
     "end": "2024-09-11T20:00:00.000Z",
