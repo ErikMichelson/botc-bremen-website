@@ -152,6 +152,20 @@
     "extra": null
   },
   {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-12-07T12:00:00.000Z",
+    "end": "2024-12-07T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Daniel & Kathi",
+      "Dennis",
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
     "title": "MZH / Gebäude GW2",
     "start": "2024-10-15T16:00:00.000Z",
     "end": "2024-10-15T20:00:00.000Z",
@@ -222,7 +236,7 @@
       "Alex",
       "Dennis"
     ],
-    "extra": "Veranstaltung der Orientierungswoche für neue Studierende aus Mathematik, Informatik."
+    "extra": "Veranstaltung der Orientierungswoche für neue Studierende aus Mathematik & Informatik."
   },
   {
     "title": "Uni Bremen / MZH",
@@ -250,6 +264,20 @@
     "extra": null
   },
   {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-11-09T12:00:00.000Z",
+    "end": "2024-11-09T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Daniel",
+      "Dennis",
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
     "title": "Weyher Würfel",
     "start": "2024-05-29T16:00:00.000Z",
     "end": "2024-05-29T20:00:00.000Z",
@@ -258,6 +286,18 @@
     "url": "https://events.botc-bremen.de/Weyhe053/",
     "storyTellers": [
       "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Unter Vorbehalt: Uni Bremen / MZH",
+    "start": "2024-12-21T12:00:00.000Z",
+    "end": "2024-12-21T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "TBA"
     ],
     "extra": null
   },
@@ -275,6 +315,19 @@
   },
   {
     "title": "Uni Bremen / MZH",
+    "start": "2024-11-23T12:00:00.000Z",
+    "end": "2024-11-23T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Alex",
+      "Daniel"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
     "start": "2024-04-13T11:00:00.000Z",
     "end": "2024-04-13T20:00:00.000Z",
     "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
@@ -287,6 +340,18 @@
       "Robert"
     ],
     "extra": "Anmeldungen vorerst noch direkt bei den Storytellern."
+  },
+  {
+    "title": "Unter Vorbehalt: Uni Bremen / MZH",
+    "start": "2025-01-04T12:00:00.000Z",
+    "end": "2025-01-04T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "TBA"
+    ],
+    "extra": null
   },
   {
     "title": "Special: Midnight Oasis",
@@ -373,6 +438,18 @@
     "url": "https://events.botc-bremen.de/weyhe081/",
     "storyTellers": [
       "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Unter Vorbehalt: Uni Bremen / MZH",
+    "start": "2025-01-18T12:00:00.000Z",
+    "end": "2025-01-18T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "TBA"
     ],
     "extra": null
   },
