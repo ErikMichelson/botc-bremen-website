@@ -86,18 +86,6 @@
     "extra": null
   },
   {
-    "title": "MZH / Gebäude GW2",
-    "start": "2024-10-30T17:00:00.000Z",
-    "end": "2024-10-30T21:00:00.000Z",
-    "location": "GW2, beim MZH, Raum B2900",
-    "locationUrl": "https://maps.app.goo.gl/ansarp66Dg161Kpt9",
-    "url": "https://events.botc-bremen.de/Gw21002/",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
     "title": "Uni Bremen / MZH",
     "start": "2024-07-13T11:00:00.000Z",
     "end": "2024-07-13T20:00:00.000Z",
@@ -161,18 +149,6 @@
     "storyTellers": [
       "Daniel & Kathi",
       "Dennis",
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "MZH / Gebäude GW2",
-    "start": "2024-10-15T16:00:00.000Z",
-    "end": "2024-10-15T20:00:00.000Z",
-    "location": "GW2, beim MZH, Raum B2900",
-    "locationUrl": "https://maps.app.goo.gl/ansarp66Dg161Kpt9",
-    "url": "https://events.botc-bremen.de/Gw21001/",
-    "storyTellers": [
       "Robert"
     ],
     "extra": null
@@ -300,18 +276,6 @@
       "TBA"
     ],
     "extra": null
-  },
-  {
-    "title": "Special: You know nothing",
-    "start": "2024-11-13T17:00:00.000Z",
-    "end": "2024-11-13T21:00:00.000Z",
-    "location": "GW2, beim MZH, Raum B2900",
-    "locationUrl": "https://maps.app.goo.gl/ansarp66Dg161Kpt9",
-    "url": null,
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": "An diesem Tag wird in geschlossener Gesellschaft ein Skript ausprobiert."
   },
   {
     "title": "Uni Bremen / MZH",
