@@ -4,7 +4,7 @@
 * Licensed under MIT (https://github.com/StartBootstrap/botc-bremen-website/blob/master/LICENSE)
 */
 let events = [];
-let chunksize = 3;
+let chunksize = 5;
 let startCounter = 0;
 
 function nextEvents(decrease = false) {
@@ -80,7 +80,6 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('/events.json')
         .then(response => response.json())
         .then(all_events => {
-            all_events.sort((a, b) => new Date(a.start) - new Date(b.start));
             const now = new Date();
             events = all_events.filter((event) => new Date(event.end) >= now);
             fillEvents(0);

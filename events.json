@@ -1,105 +1,5 @@
 [
   {
-    "title": "Überseestadt / jetzt hier",
-    "start": "2024-10-17T16:00:00.000Z",
-    "end": "2024-10-17T20:00:00.000Z",
-    "location": "Kommodore-Johnsen-Boulevard 19, 28217 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/node/11114562722",
-    "url": "https://events.botc-bremen.de/jetzthier241017/",
-    "storyTellers": [
-      "Dennis"
-    ],
-    "extra": "Offener Spieletreff in der Überseestadt."
-  },
-  {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-09-21T11:00:00.000Z",
-    "end": "2024-09-21T20:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "https://events.botc-bremen.de/mzh240921/",
-    "storyTellers": [
-      "Daniel & Kathi",
-      "Dennis & Jessica"
-    ],
-    "extra": null
-  },
-  {
-    "title": "BotC in der VHS",
-    "start": "2024-09-04T15:00:00.000Z",
-    "end": "2024-09-04T19:00:00.000Z",
-    "location": "Raum 307, Faulenstraße 69, 28195 Bremen",
-    "locationUrl": "https://maps.app.goo.gl/XDjDjytc12TK2vmk8",
-    "url": "https://www.vhs-bremen.de/kurssuche/kurs/Blood-on-the-Clocktower/242M15-432",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Weyher Würfel",
-    "start": "2024-03-24T13:00:00.000Z",
-    "end": "2024-03-24T19:00:00.000Z",
-    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
-    "locationUrl": "https://www.openstreetmap.org/way/315395128",
-    "url": null,
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": "Anmeldung via WhatsApp direkt bei Robert."
-  },
-  {
-    "title": "Uni Bremen / MZH (@ONOC)",
-    "start": "2024-05-31T19:30:00.000Z",
-    "end": "2024-05-31T23:00:00.000Z",
-    "location": "MZH Ebene 0, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "Dennis"
-    ],
-    "extra": "Die Open Night of Code (onoc.eu) startet um 18 Uhr. Keine Voranmeldungen, spontane Runde(n) vor Ort."
-  },
-  {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-07-27T11:00:00.000Z",
-    "end": "2024-07-27T20:00:00.000Z",
-    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "https://events.botc-bremen.de/mzh240727/",
-    "storyTellers": [
-      "Dennis",
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-07-13T11:00:00.000Z",
-    "end": "2024-07-13T20:00:00.000Z",
-    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "https://events.botc-bremen.de/mzh240713/",
-    "storyTellers": [
-      "Alex",
-      "Dennis",
-      "Kathi"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Uni Bremen / ITB",
-    "start": "2024-09-25T16:00:00.000Z",
-    "end": "2024-09-25T20:00:00.000Z",
-    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
-    "locationUrl": "https://www.openstreetmap.org/way/7723480",
-    "url": "https://events.botc-bremen.de/Itb0903/",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
     "title": "Uni Bremen / MZH",
     "start": "2024-03-16T12:00:00.000Z",
     "end": "2024-03-16T21:00:00.000Z",
@@ -115,59 +15,8 @@
   },
   {
     "title": "Weyher Würfel",
-    "start": "2024-05-05T12:00:00.000Z",
-    "end": "2024-05-05T18:00:00.000Z",
-    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
-    "locationUrl": "https://www.openstreetmap.org/way/315395128",
-    "url": "https://events.botc-bremen.de/Weyhe051/",
-    "storyTellers": [
-      "Alex",
-      "Kathi",
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-12-07T12:00:00.000Z",
-    "end": "2024-12-07T21:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "Daniel & Kathi",
-      "Dennis"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Zu Tisch!",
-    "start": "2024-08-31T13:00:00.000Z",
-    "end": "2024-08-31T16:00:00.000Z",
-    "location": "Kommodore-Johnsen-Boulevard, 28217 Bremen",
-    "locationUrl": "https://www.kultur-vor-ort.com/zutischprogramm/",
-    "url": null,
-    "storyTellers": [
-      "Dennis"
-    ],
-    "extra": "Wir sind zu Gast beim Stadtteilfest 'Zu Tisch!' in der Überseestadt und bieten eine Spielrunde für die Nachbarschaft an. Keine Voranmeldung!"
-  },
-  {
-    "title": "Uni Bremen / ITB",
-    "start": "2024-06-23T12:00:00.000Z",
-    "end": "2024-06-23T18:00:00.000Z",
-    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
-    "locationUrl": "https://www.openstreetmap.org/way/7723480",
-    "url": "https://events.botc-bremen.de/Weyhe062/",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Weyher Würfel",
-    "start": "2024-04-17T16:00:00.000Z",
-    "end": "2024-04-17T20:00:00.000Z",
+    "start": "2024-03-24T13:00:00.000Z",
+    "end": "2024-03-24T19:00:00.000Z",
     "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
     "locationUrl": "https://www.openstreetmap.org/way/315395128",
     "url": null,
@@ -175,106 +24,6 @@
       "Robert"
     ],
     "extra": "Anmeldung via WhatsApp direkt bei Robert."
-  },
-  {
-    "title": "Uni Bremen / ITB",
-    "start": "2024-08-24T11:00:00.000Z",
-    "end": "2024-08-24T20:00:00.000Z",
-    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
-    "locationUrl": "https://www.openstreetmap.org/way/7723480",
-    "url": "https://events.botc-bremen.de/itb240824",
-    "storyTellers": [
-      "Daniel & Kathi"
-    ],
-    "extra": "Dieser Samstagstermin findet abweichend im ITB statt!"
-  },
-  {
-    "title": "FB3 O-Woche",
-    "start": "2024-10-11T16:00:00.000Z",
-    "end": "2024-10-11T20:00:00.000Z",
-    "location": "MZH 1400, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "Alex",
-      "Dennis"
-    ],
-    "extra": "Veranstaltung der Orientierungswoche für neue Studierende aus Mathematik & Informatik."
-  },
-  {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-10-26T11:00:00.000Z",
-    "end": "2024-10-26T20:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "https://events.botc-bremen.de/mzh241026/",
-    "storyTellers": [
-      "Alex",
-      "Daniel & Kathi"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Uni Bremen / ITB",
-    "start": "2024-09-11T16:00:00.000Z",
-    "end": "2024-09-11T20:00:00.000Z",
-    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
-    "locationUrl": "https://www.openstreetmap.org/way/7723480",
-    "url": "https://events.botc-bremen.de/Itb0901/",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-11-09T12:00:00.000Z",
-    "end": "2024-11-09T21:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "Daniel",
-      "Dennis"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Weyher Würfel",
-    "start": "2024-05-29T16:00:00.000Z",
-    "end": "2024-05-29T20:00:00.000Z",
-    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
-    "locationUrl": "https://www.openstreetmap.org/way/315395128",
-    "url": "https://events.botc-bremen.de/Weyhe053/",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Unter Vorbehalt: Uni Bremen / MZH",
-    "start": "2024-12-21T12:00:00.000Z",
-    "end": "2024-12-21T21:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "TBA"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-11-23T12:00:00.000Z",
-    "end": "2024-11-23T21:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "Alex",
-      "Daniel"
-    ],
-    "extra": null
   },
   {
     "title": "Uni Bremen / MZH",
@@ -292,28 +41,103 @@
     "extra": "Anmeldungen vorerst noch direkt bei den Storytellern."
   },
   {
-    "title": "Unter Vorbehalt: Uni Bremen / MZH",
-    "start": "2025-01-04T12:00:00.000Z",
-    "end": "2025-01-04T21:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "TBA"
-    ],
-    "extra": null
-  },
-  {
-    "title": "Special: Midnight Oasis",
-    "start": "2024-09-17T16:00:00.000Z",
-    "end": "2024-09-17T20:00:00.000Z",
-    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
-    "locationUrl": "https://www.openstreetmap.org/way/7723480",
+    "title": "Weyher Würfel",
+    "start": "2024-04-17T16:00:00.000Z",
+    "end": "2024-04-17T20:00:00.000Z",
+    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
+    "locationUrl": "https://www.openstreetmap.org/way/315395128",
     "url": null,
     "storyTellers": [
       "Robert"
     ],
-    "extra": "An diesem Tag wird in geschlossener Gesellschaft ein Skript ausprobiert."
+    "extra": "Anmeldung via WhatsApp direkt bei Robert."
+  },
+  {
+    "title": "Weyher Würfel",
+    "start": "2024-05-05T12:00:00.000Z",
+    "end": "2024-05-05T18:00:00.000Z",
+    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
+    "locationUrl": "https://www.openstreetmap.org/way/315395128",
+    "url": "https://events.botc-bremen.de/Weyhe051/",
+    "storyTellers": [
+      "Alex",
+      "Kathi",
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Weyher Würfel",
+    "start": "2024-05-15T16:00:00.000Z",
+    "end": "2024-05-15T20:00:00.000Z",
+    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
+    "locationUrl": "https://www.openstreetmap.org/way/315395128",
+    "url": "https://events.botc-bremen.de/Weye052/",
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Weyher Würfel",
+    "start": "2024-05-29T16:00:00.000Z",
+    "end": "2024-05-29T20:00:00.000Z",
+    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
+    "locationUrl": "https://www.openstreetmap.org/way/315395128",
+    "url": "https://events.botc-bremen.de/Weyhe053/",
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH (@ONOC)",
+    "start": "2024-05-31T19:30:00.000Z",
+    "end": "2024-05-31T23:00:00.000Z",
+    "location": "MZH Ebene 0, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Dennis"
+    ],
+    "extra": "Die Open Night of Code (onoc.eu) startet um 18 Uhr. Keine Voranmeldungen, spontane Runde(n) vor Ort."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-06-01T11:00:00.000Z",
+    "end": "2024-06-01T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/UniBre01/",
+    "storyTellers": [
+      "Alex",
+      "Kathi"
+    ],
+    "extra": "Genutzte Räume: 1450, 1460, 1100"
+  },
+  {
+    "title": "BotC in der VHS",
+    "start": "2024-06-12T15:00:00.000Z",
+    "end": "2024-06-12T19:00:00.000Z",
+    "location": "Raum 307, Faulenstraße 69, 28195 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/2528100306",
+    "url": "https://www.vhs-bremen.de/kurssuche/kurs/241M15-430",
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / ITB",
+    "start": "2024-06-23T12:00:00.000Z",
+    "end": "2024-06-23T18:00:00.000Z",
+    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
+    "locationUrl": "https://www.openstreetmap.org/way/7723480",
+    "url": "https://events.botc-bremen.de/Weyhe062/",
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": null
   },
   {
     "title": "Weyher Würfel",
@@ -322,18 +146,6 @@
     "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
     "locationUrl": "https://www.openstreetmap.org/way/315395128",
     "url": "https://events.botc-bremen.de/Weyhe061/",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
-  },
-  {
-    "title": "BotC in der VHS",
-    "start": "2024-10-02T15:00:00.000Z",
-    "end": "2024-10-02T19:00:00.000Z",
-    "location": "Raum 309, Faulenstraße 69, 28195 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/node/2528100306",
-    "url": "https://www.vhs-bremen.de/kurssuche/kurs/Blood-on-the-Clocktower/242M15-433",
     "storyTellers": [
       "Robert"
     ],
@@ -351,18 +163,44 @@
       "Dennis",
       "Kathi"
     ],
-    "extra": null
+    "extra": "Genutzte Räume: 1100, 1110, 1450"
   },
   {
     "title": "Uni Bremen / MZH",
-    "start": "2024-06-01T11:00:00.000Z",
-    "end": "2024-06-01T20:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "start": "2024-07-13T11:00:00.000Z",
+    "end": "2024-07-13T20:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "https://events.botc-bremen.de/UniBre01/",
+    "url": "https://events.botc-bremen.de/mzh240713/",
     "storyTellers": [
       "Alex",
+      "Dennis",
       "Kathi"
+    ],
+    "extra": "Genutzte Räume: 1090, 1450, 1460"
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-07-27T11:00:00.000Z",
+    "end": "2024-07-27T20:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh240727/",
+    "storyTellers": [
+      "Dennis",
+      "Robert"
+    ],
+    "extra": "Genutzte Räume: 1090, 1450, 1460"
+  },
+  {
+    "title": "BotC in der VHS",
+    "start": "2024-08-07T15:00:00.000Z",
+    "end": "2024-08-07T19:00:00.000Z",
+    "location": "Raum 307, Faulenstraße 69, 28195 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/2528100306",
+    "url": "https://www.vhs-bremen.de/kurssuche/kurs/241M15-431",
+    "storyTellers": [
+      "Robert"
     ],
     "extra": null
   },
@@ -376,6 +214,18 @@
     "storyTellers": [
       "Daniel & Kathi",
       "Dennis"
+    ],
+    "extra": "Genutzte Räume: 1450, 1460, 1470"
+  },
+  {
+    "title": "Uni Bremen / ITB",
+    "start": "2024-08-14T16:00:00.000Z",
+    "end": "2024-08-14T20:00:00.000Z",
+    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
+    "locationUrl": "https://www.openstreetmap.org/way/7723480",
+    "url": "https://events.botc-bremen.de/Itb0801/",
+    "storyTellers": [
+      "Robert"
     ],
     "extra": null
   },
@@ -392,62 +242,36 @@
     "extra": null
   },
   {
-    "title": "Unter Vorbehalt: Uni Bremen / MZH",
-    "start": "2025-01-18T12:00:00.000Z",
-    "end": "2025-01-18T21:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": null,
-    "storyTellers": [
-      "TBA"
-    ],
-    "extra": null
-  },
-  {
     "title": "Uni Bremen / ITB",
-    "start": "2024-08-14T16:00:00.000Z",
-    "end": "2024-08-14T20:00:00.000Z",
+    "start": "2024-08-24T11:00:00.000Z",
+    "end": "2024-08-24T20:00:00.000Z",
     "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
     "locationUrl": "https://www.openstreetmap.org/way/7723480",
-    "url": "https://events.botc-bremen.de/Itb0801/",
+    "url": "https://events.botc-bremen.de/itb240824",
     "storyTellers": [
-      "Robert"
+      "Daniel & Kathi"
     ],
-    "extra": null
+    "extra": "Dieser Samstagstermin findet abweichend im ITB statt!"
   },
   {
-    "title": "Uni Bremen / MZH",
-    "start": "2024-10-05T11:00:00.000Z",
-    "end": "2024-10-05T20:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "https://events.botc-bremen.de/mzh241005/",
+    "title": "Zu Tisch!",
+    "start": "2024-08-31T13:00:00.000Z",
+    "end": "2024-08-31T16:00:00.000Z",
+    "location": "Kommodore-Johnsen-Boulevard, 28217 Bremen",
+    "locationUrl": "https://www.kultur-vor-ort.com/zutischprogramm/",
+    "url": null,
     "storyTellers": [
-      "Alex",
-      "Dennis",
-      "Robert"
+      "Dennis"
     ],
-    "extra": null
-  },
-  {
-    "title": "BotC in der VHS",
-    "start": "2024-06-12T15:00:00.000Z",
-    "end": "2024-06-12T19:00:00.000Z",
-    "location": "Raum 307, Faulenstraße 69, 28195 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/node/2528100306",
-    "url": "https://www.vhs-bremen.de/kurssuche/kurs/241M15-430",
-    "storyTellers": [
-      "Robert"
-    ],
-    "extra": null
+    "extra": "Wir sind zu Gast beim Stadtteilfest 'Zu Tisch!' in der Überseestadt und bieten eine Spielrunde für die Nachbarschaft an. Keine Voranmeldung!"
   },
   {
     "title": "BotC in der VHS",
-    "start": "2024-08-07T15:00:00.000Z",
-    "end": "2024-08-07T19:00:00.000Z",
+    "start": "2024-09-04T15:00:00.000Z",
+    "end": "2024-09-04T19:00:00.000Z",
     "location": "Raum 307, Faulenstraße 69, 28195 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/node/2528100306",
-    "url": "https://www.vhs-bremen.de/kurssuche/kurs/241M15-431",
+    "locationUrl": "https://maps.app.goo.gl/XDjDjytc12TK2vmk8",
+    "url": "https://www.vhs-bremen.de/kurssuche/kurs/Blood-on-the-Clocktower/242M15-432",
     "storyTellers": [
       "Robert"
     ],
@@ -468,14 +292,190 @@
     "extra": null
   },
   {
-    "title": "Weyher Würfel",
-    "start": "2024-05-15T16:00:00.000Z",
-    "end": "2024-05-15T20:00:00.000Z",
-    "location": "KGS Leeste, Schulstr. 40, 28844 Weyhe-Leeste",
-    "locationUrl": "https://www.openstreetmap.org/way/315395128",
-    "url": "https://events.botc-bremen.de/Weye052/",
+    "title": "Uni Bremen / ITB",
+    "start": "2024-09-11T16:00:00.000Z",
+    "end": "2024-09-11T20:00:00.000Z",
+    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
+    "locationUrl": "https://www.openstreetmap.org/way/7723480",
+    "url": "https://events.botc-bremen.de/Itb0901/",
     "storyTellers": [
       "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Special: Midnight Oasis",
+    "start": "2024-09-17T16:00:00.000Z",
+    "end": "2024-09-17T20:00:00.000Z",
+    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
+    "locationUrl": "https://www.openstreetmap.org/way/7723480",
+    "url": null,
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": "An diesem Tag wird in geschlossener Gesellschaft ein Skript ausprobiert."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-09-21T11:00:00.000Z",
+    "end": "2024-09-21T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh240921/",
+    "storyTellers": [
+      "Daniel & Kathi",
+      "Dennis & Jessica"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / ITB",
+    "start": "2024-09-25T16:00:00.000Z",
+    "end": "2024-09-25T20:00:00.000Z",
+    "location": "ITB, Am Fallturm 1, 28359 Bremen (Eingang A)",
+    "locationUrl": "https://www.openstreetmap.org/way/7723480",
+    "url": "https://events.botc-bremen.de/Itb0903/",
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "BotC in der VHS",
+    "start": "2024-10-02T15:00:00.000Z",
+    "end": "2024-10-02T19:00:00.000Z",
+    "location": "Raum 309, Faulenstraße 69, 28195 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/2528100306",
+    "url": "https://www.vhs-bremen.de/kurssuche/kurs/Blood-on-the-Clocktower/242M15-433",
+    "storyTellers": [
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-10-05T11:00:00.000Z",
+    "end": "2024-10-05T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh241005/",
+    "storyTellers": [
+      "Alex",
+      "Dennis",
+      "Robert"
+    ],
+    "extra": null
+  },
+  {
+    "title": "FB3 O-Woche",
+    "start": "2024-10-11T16:00:00.000Z",
+    "end": "2024-10-11T20:00:00.000Z",
+    "location": "MZH 1400, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Alex",
+      "Dennis"
+    ],
+    "extra": "Veranstaltung der Orientierungswoche für neue Studierende aus Mathematik & Informatik."
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2024-10-17T16:00:00.000Z",
+    "end": "2024-10-17T20:00:00.000Z",
+    "location": "Kommodore-Johnsen-Boulevard 19, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/11114562722",
+    "url": "https://events.botc-bremen.de/jetzthier241017/",
+    "storyTellers": [
+      "Dennis"
+    ],
+    "extra": "Offener Spieletreff in der Überseestadt."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-10-26T11:00:00.000Z",
+    "end": "2024-10-26T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh241026/",
+    "storyTellers": [
+      "Alex",
+      "Daniel & Kathi"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-11-09T12:00:00.000Z",
+    "end": "2024-11-09T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Daniel",
+      "Dennis"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-11-23T12:00:00.000Z",
+    "end": "2024-11-23T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Alex",
+      "Daniel"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2024-12-07T12:00:00.000Z",
+    "end": "2024-12-07T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "Daniel & Kathi",
+      "Dennis"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Unter Vorbehalt: Uni Bremen / MZH",
+    "start": "2024-12-21T12:00:00.000Z",
+    "end": "2024-12-21T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "TBA"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Unter Vorbehalt: Uni Bremen / MZH",
+    "start": "2025-01-04T12:00:00.000Z",
+    "end": "2025-01-04T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "TBA"
+    ],
+    "extra": null
+  },
+  {
+    "title": "Unter Vorbehalt: Uni Bremen / MZH",
+    "start": "2025-01-18T12:00:00.000Z",
+    "end": "2025-01-18T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": null,
+    "storyTellers": [
+      "TBA"
     ],
     "extra": null
   }
